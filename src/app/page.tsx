@@ -31,7 +31,7 @@ export default function Home() {
         </div>
       </div>
 
-      <div className={styles.center}>
+      <div className="flex items-center justify-between">
         <Image
           className={styles.logo}
           src="/next.svg"
